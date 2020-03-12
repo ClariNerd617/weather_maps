@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/mathewbarlow/weather_maps) 
+
 # weather_maps
 
 This repository contains a python notebook for making basic weather maps from online data.  Should work for 1 Jan 1979 through the current time (the most recent available run of the GFS). 
